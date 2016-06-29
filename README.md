@@ -1,15 +1,15 @@
 # Playgrounds
 
+![Coco](http://i.imgur.com/zSjSTbl.jpg?1)
+
+> How many cares one loses when one decides not to be something but to be someone. ~[Coco Chanel](https://en.wikipedia.org/wiki/Coco_Chanel)
+
 ## Learning Objectives
 
 * Create a new playground file using Xcode.
 * Explain that a playground file is not **necessary** to application projects. It's used solely as a place to explore, without the need to create a project.
 * Write code in the playground file
 * Be familiar with the error message that appears when trying to change a **let** constant.
-
-## What the student can do at this point 
-
-* Create variables & constants using `String` literals.
 
 ## Playgrounds
 
