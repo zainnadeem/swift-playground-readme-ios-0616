@@ -19,17 +19,17 @@ Playgrounds ships as part of Xcode, so the first thing you must do is download X
 
 Once Xcode has been downloaded, open it up from the Applications folder or launcher. You will be greeted by the following splash screen. Click "Get started with a playground" to create a new playground and experiment with some Swift code.
 
-![Get started with a playground](.images/xcode1.png)
+![Get started with a playground](http://i.imgur.com/15kIM52.png)
 
 After clicking on "Get started with a playground", you will be prompted to name your new playground file. Give it a memorable name.
 
 You can also select the programming environment you want to experiment with: iOS, OS X, or tvOS. Different environments offer slightly different options for interacting with the underlying system; for example, iOS provides the Cocoa Touch framework, whereas OS X provides the Cocoa framework. For now, the code you are writing will not depend on any specific platform, so you can select "iOS".
 
-![Setup your playground](.images/xcode2.png)
+![Setup your playground](http://i.imgur.com/5pzmYqa.png)
 
 Click "Next" to continue. You will be prompted to save your new playground file somewhere on your computer. Save it anywhere you like and click "Create" to finish setting up your new playground. You will see a mostly empty document like the one below.
 
-![Your new playground](.images/xcode3.png)
+![Your new playground](http://i.imgur.com/8V20fzA.png)
 
 ## Experimenting With Code
 
@@ -37,15 +37,15 @@ By default, your new playground will include a line importing UIKit (`import UIK
 
 You can write any Swift code you want in the playground file. As you enter each line, you will see the results of executing that line of code in the grey sidebar on the right side of the playground. Try declaring a constant called `str` and setting it to `"Hello, world!"`. You should see the following in the playground file:
 
-![Playground output](.images/xcode4.png)
+![Playground output](http://i.imgur.com/NpXXewU.png)
 
 Since you declared `str` to be a _constant_, try changing its value on the second line of the playground file. Notice that instead of executing that line of code and showing its output in the sidebar, Xcode instead highlights it as an error:
 
-![Playground error highlighting](.images/xcode5.png)
+![Playground error highlighting](http://i.imgur.com/ZtBLLgu.png)
 
 If you click on the red circle to the left of the erroneous line of code, Xcode will tell you why the line was marked as an error, and even provides a suggestion on how to fix it:
 
-![Playground error explanation](.images/xcode6.png)
+![Playground error explanation](http://i.imgur.com/OMOKtzV.png)
 
 Do you know why Xcode marked it as an error?
 
